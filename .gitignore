@@ -1,0 +1,14 @@
+/build/
+/dist/
+/RadioTray.exe
+/validation.json
+/.vs/
+*.user
+*.suo
+*.pdb
+*.obj
+*.ilk
+*.log
+.aider*
+.env
+/installer/Output/
